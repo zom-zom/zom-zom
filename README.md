@@ -4,7 +4,7 @@
     <h1>Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40px" />, I'm Bradom!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="40px" /></h1>
 
 ![:zom-zom](https://count.getloli.com/@:zom-zom.readme?theme=booru-lisu)
-- :memo: [My blog](https://bradomcol.me)
+- :memo: [My blog](https://bradom.cn)
 
 <picture>
   <source
